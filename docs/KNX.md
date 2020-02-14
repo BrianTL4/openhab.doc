@@ -3,7 +3,7 @@ KNX-Binding
 
 Im folgenden Kapitel wird die Anbindung an den KNX-Bus per KNX/IP Gateway erklärt.
 Für die Konfiguration wird das [Beispielhaus](#Beispiel--Visualisierung-Haus) herangezogen sowie die Einrichtung des KNX-Binding per textbasierte Konfiguration erklärt.
-Um auf den KNX-Bus zuzugreifen, wird ein an den KNX-Bus angeschlossenes KNX-Gateway benötigt (z. B.: Siemens IP-Schnittstelle N148/22).
+Um auf den KNX-Bus zuzugreifen, wird ein an den KNX-Bus angeschlossenes KNX-Gateway benötigt (z. B.: Siemens IP-Schnittstelle N148/22 oder ein Raspberry Pi per knxd mit [TUL-Stick](http://shop.busware.de/product_info.php/products_id/59 "Busware Homepage")+[Anleitung](https://www.meintechblog.de/2018/07/tul-stick-als-knx-ip-gateway-auf-dem-raspberry-pi-einrichten-mit-knxd/ "Meintechblog.de Homepage")).
 Das KNX Verbindung kann dabei sowohl mit einem Ethernet (Router- oder Tunneltyp) als auch als serielles Gateway realisiert werden.
 Auf die Konfiguration als serielles Gateway wird nicht eingegangen.
 
